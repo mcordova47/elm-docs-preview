@@ -2,7 +2,7 @@
 
 *This was an experiment and won't be published for use.*
 
-Use [ChristophP/elm-docs-preview](https://github.com/ChristophP/elm-docs-preview) for this purpose instead.
+Use [ChristophP/elm-docs-preview](https://github.com/ChristophP/elm-docs-preview) for this purpose instead, which I didn't notice until after committing this.
 
 ## Usage
 
