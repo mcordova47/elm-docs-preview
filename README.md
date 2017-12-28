@@ -1,3 +1,6 @@
 # elm-docs-preview
+
 ## Usage
-`node elm-docs-preview.js input.json output-dir [--debug]`
+
+1. `elm make --docs=docs.json`
+2. `node elm-docs-preview.js docs.json output-dir [--debug]`
